@@ -27,7 +27,7 @@ You can also just use webpack. Actually, I would recommend using webpack. But si
 
 [00:03:11]
 If you're more comfortable with browserify, there's a browserify template too, so you could also do viewing it, browserify or something like that. So there's a few different templates.
->> Speaker 2: Is it okay if I use the webpack instead of webpacks [INAUDIBLE].
+>> Speaker 2: Is it okay if I use the webpack instead of webpack-simple?
 >> Sarah Drasner: Yeah of course.
 >> Speaker 2: Okay.
 
