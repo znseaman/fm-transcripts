@@ -50,7 +50,7 @@ Let's go look. Because we can see this pretty easily from the DOM. So if we go o
 
 [00:05:17]
 I could have used a div or something else in that area.
->> Speaker 2: Is it like merging the properties? Cuz you have other things on there like v-4 and those other properties on your master li.
+>> Speaker 2: Is it like merging the properties? Cuz you have other things on there like v-for and those other properties on your master li.
 >> Sarah: It's not, It's not merging them, it's basically taking that whatever the inner text is and using the inner text.
 
 [00:05:40]
