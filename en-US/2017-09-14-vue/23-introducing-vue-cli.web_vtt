@@ -264,13 +264,12 @@ you probably wanna be using webpack.
 
 56
 00:03:11.700 --> 00:03:15.140
-If you're more comfortable with browser
-fi, there's a browser fi template too, so
+If you're more comfortable with browserify, there's a browserify template too, so
 
 57
 00:03:15.140 --> 00:03:19.610
 you could also do viewing it,
-browser fi or something like that.
+browserify or something like that.
 
 58
 00:03:19.610 --> 00:03:21.200
