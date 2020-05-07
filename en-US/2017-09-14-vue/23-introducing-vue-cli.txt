@@ -11,7 +11,7 @@ In CodePen, we've got those little pre processor tabs, that's clearly cool but w
 We're gonna build and concatenate single file templates which are super awesome and I'm not biased at all. Here are all the trophies in the world [LAUGH]. I think single file templates are just a really, really great workflow. So we'll look at those in this section. It's so that we can not load all of our files at startup.
 
 [00:01:26]
-Sometimes we wanna lazy load component. Sometimes we need to do asynchronous operations. And with UCLI that really helps us do all of that not just have everything on the page at once. So that's really great. We can do things like server side rendering, code splitting, we can get performance matrix about our application.
+Sometimes we wanna lazy load component. Sometimes we need to do asynchronous operations. And with vue-cli that really helps us do all of that not just have everything on the page at once. So that's really great. We can do things like server side rendering, code splitting, we can get performance matrix about our application.
 
 [00:01:47]
 All of these things are really important an really awesome. We can also have build and prod versions. Previously, we've just been using a script that was like the non minified version and then the minified version. But in real life, what we'd need to do is we'd minify, concatenate, do all of these things to our scripts.
