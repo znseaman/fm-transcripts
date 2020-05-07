@@ -245,7 +245,7 @@ the thing that webpack itself has
 
 52
 00:02:58.230 --> 00:03:02.422
-that webpack simple does not
+that webpack-simple does not
 are things like testing and
 
 53
@@ -311,7 +311,7 @@ it is totally up to you.
 
 66
 00:03:32.578 --> 00:03:36.437
-I am using webpack simple for
+I am using webpack-simple for
 the purpose of teaching but
 
 67

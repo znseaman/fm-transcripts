@@ -23,7 +23,7 @@ And then we'd also be using a different version of that script when we're pushin
 So I think everybody should actually run this command so that they have it on their machine before we get going. I've already run this [LAUGH] so I'm not gonna run it again. Yeah I'll give you a second. Then for the purposes of this class today, we're gonna do vue init webpack-simple my project or whatever you want your project to be named.
 
 [00:02:50]
-You can also just use webpack. Actually, I would recommend using webpack. But since we're not gonna do, the thing that webpack itself has that webpack simple does not are things like testing and ES linked configs and things like that that we're not using during this class. So I'm going to do a webpack symbol today but in the future, you probably wanna be using webpack.
+You can also just use webpack. Actually, I would recommend using webpack. But since we're not gonna do, the thing that webpack itself has that webpack-simple does not are things like testing and ES linked configs and things like that that we're not using during this class. So I'm going to do a webpack symbol today but in the future, you probably wanna be using webpack.
 
 [00:03:11]
 If you're more comfortable with browserify, there's a browserify template too, so you could also do viewing it, browserify or something like that. So there's a few different templates.
@@ -35,7 +35,7 @@ If you're more comfortable with browserify, there's a browserify template too, s
 
 >> Sarah Drasner: There are just a few more options that it will take you through.
 >> Speaker 2: Yeah, we are already past that. But as far as the rest of the course is concerned.
->> Sarah Drasner: Sure it is totally up to you. I am using webpack simple for the purpose of teaching but webpack is great and it has things like testing involved.
+>> Sarah Drasner: Sure it is totally up to you. I am using webpack-simple for the purpose of teaching but webpack is great and it has things like testing involved.
 
 [00:03:40]
 [INAUDIBLE] With CD into that directory, we'd run yarn or npm install, depending, use one or the other don't go back and forth like I just did in this [LAUGH] thing. So use yarn add or use yarn. I typically use yarn. And then I'm gonna say npm run dev.
