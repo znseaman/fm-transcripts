@@ -95,7 +95,7 @@ Nothing's changed. We've taken exactly the same situation, and we've now just in
 But you lost me. I'm clear clarification of really interested in anyone's clarification on this cuz this is a challenging shift here. Okay, we're not gonna tend to use this style too much today, but this is increasingly A standard style, why nobody use it too much a day. So, anonymous in our functions, they improve immediate legibility of the code.
 
 [00:08:31]
-It makes it look like kind of pretty, right? I'm not storing stuff separately. Why am i so when i'm doing hard parts? Why do I, Like declare function separately, when in reality will tend to just insert them directly. It was a rhetorical question, but okay, Kyle, go ahead.
+It makes it look like kind of pretty, right? I'm not storing stuff separately. Why am i so when i'm doing hard parts? Why do I, Like declare function separately, when in reality will tend to just insert them directly. It was a rhetorical question, but okay, Kayla, go ahead.
 
 [00:08:48]
 
