@@ -121,7 +121,7 @@ We assume, somehow it's got some relation to createFunction. It has zero relatio
 And we've all been there, and if we get this bit, close your book, it's so naturally. This is actually the cause of underlying confusion. So let's try and answer a few more ways. When I ran createFunction at one time I went inside and I created multiplyBy2. When I actually did that createFunction execution context it was created by calling it I lose access to anything inside of here.
 
 [00:10:23]
-Unless, hold on, let's ask map, can I still run the function definition of multiplyBy2 back in global?
+Unless, hold on, let's ask Matt, can I still run the function definition of multiplyBy2 back in global?
 >> Speaker 6: Yes.
 >> Will Sentance: Yeah, how come? What can I use? What label can I use?
 >> Speaker 6: You can use generatedFunc.
