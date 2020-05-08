@@ -39,7 +39,7 @@ Also is there, there it is. Excellent. Let's go into the execution context. And 
 [00:02:43]
 Okay? There is all right, we hit the body of the for loop. i's value is what initially Taylor?
 >> Speaker 3: Zero.
->> Will Sentance: Zero we take array position or asub or array index zero and get the value?
+>> Will Sentance: Zero we take array position or array sub or array index zero and get the value?
 >> Speaker 3: One.
 >> Will Sentance: One. We divide it by two, we get, Kayla? [LAUGH]
 >> Speaker 3: 0.5.
