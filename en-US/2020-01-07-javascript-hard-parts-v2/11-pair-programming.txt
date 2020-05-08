@@ -50,7 +50,7 @@ That is remarkable, it's gonna refine my technical communication beyond measure.
 So there you go, it's astonishing to hear them talk about their senior engineers that they are may be frustrated with. Who cannot verbalize their code well, that is a massive hindrance to a company. So even if you're very seasoned, this is a huge opportunity to verbalize your code effectively.
 
 [00:05:08]
-So there we go, as I say, you're gonna take a challenge, a prompt, and one of this'll mean navigator. I'm gonna be explaining a strategy verbally, verbal pseudocode, so to speak to a partner who's gonna be executing it in actual code. Okay, you're going to do it for, you know, five minutes navigator, five minutes driver and witch over.
+So there we go, as I say, you're gonna take a challenge, a prompt, and one of this'll mean navigator. I'm gonna be explaining a strategy verbally, verbal pseudocode, so to speak to a partner who's gonna be executing it in actual code. Okay, you're going to do it for, you know, five minutes navigator, five minutes driver and switch over.
 
 [00:05:26]
 If you do think by the way, your partner's going off on a bad route, don't block them, don't say I think that's not gonna work. Let it happen, press Run, you're gonna see a bug is not a mistake, the bug is something that you now know can be used to identify what the problem was.
