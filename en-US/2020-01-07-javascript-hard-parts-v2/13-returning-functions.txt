@@ -147,7 +147,7 @@ Okay, so, if I'm running generatedFunc here, I'm gonna create, everybody, a bran
 >> Will Sentance: Excellent, Peter. Everyone else a brand new?
 >> Speaker 6: Execution context.
 >> Will Sentance: Very nice, there it is. Okay, and here's why it's really confusing I think. Let's go into it.
->> Will Sentance: Our arguments 3, what's the placeholder?
+>> Will Sentance: Our argument is 3, what's the placeholder?
 
 [00:11:46]
 What's the parameter? Dan, that's waiting for that 3?
