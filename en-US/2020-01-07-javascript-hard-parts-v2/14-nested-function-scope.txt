@@ -52,7 +52,7 @@ Yes, so Braden do you see looked like Braden might jump straight into the functi
 [00:03:44]
 
 >> Speaker 2: The parentheses.
->> Will Sentance: Parentheses, exactly parens and we create a brand new water everybody. Action contacts excellent. And in its local memory This is getting very small. I'm breaking my rules here in his local memory. Cool stack. What happens on the cool side down? We add increment counter.
+>> Will Sentance: Parentheses, exactly parens and we create a brand new what everybody. Action contacts excellent. And in its local memory This is getting very small. I'm breaking my rules here in his local memory. Cool stack. What happens on the cool side down? We add increment counter.
 
 [00:04:03]
 Yeah we got the cool to increment counter. Onto the call stack there it is, because recording it inside of outer. When we finished running it, global we'll go back to outer, right? It's kind of nice it keeps track of it all. Okay, what is the actual line of code toward inside of incrementCounter that now gets executed?
