@@ -62,7 +62,7 @@ I made a horrible mistake here. So if you see instructions anywhere inside the c
 
 [00:04:46]
 
->> Mark: Find output. Yeah, and then we'll complete?
+>> Mark: Define output. Yeah, and then we'll complete?
 >> Will Sentance: Empty array. Empty array, well yeah, exactly. Okay, now we're gonna start working through this function and I know we're taking this, maybe for some people and a patient pace, but we wanna really make sure everything covered here, at a measured pace in the middle to a more and more hard stuff as we go.
 
 [00:05:09]
