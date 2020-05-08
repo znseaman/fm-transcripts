@@ -545,8 +545,8 @@ and create this welcome page,
 
 116
 00:07:14.383 --> 00:07:20.390
-and this next link to product, and create
-a product page, and next link to home.
+and this nuxt-link to product, and create
+a product page, and nuxt-link to home.
 
 117
 00:07:20.390 --> 00:07:24.730

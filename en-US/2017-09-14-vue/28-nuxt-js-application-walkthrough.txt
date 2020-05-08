@@ -62,7 +62,7 @@ Because /cart would [LAUGH] fit into that category too, so we wanna make sure th
 
 [00:06:51]
 We had a nuxt- link exact to. So if we go back to this, that just goes back to the home page. And so, you can use it inside the pages as well. It doesn't only have to be in those headers or anything.
->> Sarah Drasner: All right, so in the pages we could replace index.vue, and create this welcome page, and this next link to product, and create a product page, and next link to home.
+>> Sarah Drasner: All right, so in the pages we could replace index.vue, and create this welcome page, and this nuxt-link to product, and create a product page, and nuxt-link to home.
 
 [00:07:20]
 And right out of the gate we would have this routing setup from one to another. We did something a little bit more fancy here but like at the very core, at the very smallest bit this is all we need to get routing set up and it's pretty nice.
