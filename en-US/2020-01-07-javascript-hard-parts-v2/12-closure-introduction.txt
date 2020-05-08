@@ -45,5 +45,5 @@ So we can call this the state as well of the function, when the function finishe
 Such that the next time I run this function, it can have some memory, some remembrance of its previous execution, imagine what that would allow us to do. That would let our function definitions, the function definition itself, notice when we run it have a little memory. But the definition itself have a persistent memory attached like a permanent memory attached onto it.
 
 [00:05:02]
-That would be really, really special that would allow us to do things like say, you've previously run this function. I know that because in my remembrance of the previous running, I've stalled that you previously run me, so you can't run me again. So I can limit a function to only run one time and a thousand more things we're gonna see.
+That would be really, really special that would allow us to do things like say, you've previously run this function. I know that because in my remembrance of the previous running, I've stored that you previously run me, so you can't run me again. So I can limit a function to only run one time and a thousand more things we're gonna see.
 
