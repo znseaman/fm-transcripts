@@ -29,7 +29,7 @@ That generatedFunc is really gonna be multiplyBy2. Sounds maybe not profound, bu
 
 [00:02:41]
 
->> Will Sentance: Beautiful, define the const generatedFunc. There it is generatedFunc, okay? Now, things got interesting Ethan, we sold that label, that identify that const label generatedFunc. What are we're gonna store assign to it? What's it's value gonna be?
+>> Will Sentance: Beautiful, define the const generatedFunc. There it is generatedFunc, okay? Now, things got interesting Ethan, we stored that label, that identify that const label generatedFunc. What are we're gonna store assign to it? What's it's value gonna be?
 >> Will Sentance: The answer might just be, we don't know yet.
 >> Ethan: We don't know yet.
 
