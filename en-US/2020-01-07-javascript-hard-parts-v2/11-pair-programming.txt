@@ -62,5 +62,5 @@ That's awesome, you get to be a debugger with them where you already know what's
 We're going to pair program and we are going to do the old style and we're going to go through this list of nine things, have reached thing that you see here. Give yourself a point to get a total of between one and nine, yes, so if you've done all of these before, you've covered all of these, your score is, total out of, nine.
 
 [00:06:18]
-I don't know how that got cut off, a total out of nine, if you've done all of these, you've got a score of nine. If you've done three of them in any order, score of three, five of them in any order, score of five. Okay, once you know your tally, people, we are back to the old school Harry Potter style.
+I don't know how that got cut off, a total out of nine, if you've done all of these, you've got a score of nine. If you've done three of them in any order, score of three, five of them in any order, score of five. Okay, once you know your tally, people, we are back to the old school Hard Parts style.
 
