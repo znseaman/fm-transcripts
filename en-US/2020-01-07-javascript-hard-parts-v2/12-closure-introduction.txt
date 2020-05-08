@@ -1,5 +1,5 @@
 [00:00:00]
->> Will Sentance: We're on to the beautiful concept of, the elegant concept of closure, as we involve lexical scoping and execution context. And the fundamental difference between them, that most of us don't really realize. But it's gonna be the backdrop on which closes it, so here we go, I think this is the most esoteric concept in JavaScript.
+>> Will Sentance: We're on to the beautiful concept of, the elegant concept of closure, as we involve lexical scoping and execution context. And the fundamental difference between them, that most of us don't really realize. But it's gonna be the backdrop on which closure sits, so here we go, I think this is the most esoteric concept in JavaScript.
 
 [00:00:21]
 This is the bit that If you really understand, I think you'll get jobs, no doubt about it. This is a special bit, if you understand it as well, you can do some really powerful things. You can build professional level functions like once, this is a function that can turn other functions into functions that are gonna run once.
