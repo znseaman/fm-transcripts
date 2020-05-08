@@ -403,7 +403,7 @@ because we're calling it inside of outer.
 88
 00:04:09.660 --> 00:04:13.230
 When we finish running it,
-global we'll go back to outer, right?
+we won't go back to global. We'll go back to outer, right?
 
 89
 00:04:13.230 --> 00:04:15.130
