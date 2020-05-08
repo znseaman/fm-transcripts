@@ -15,7 +15,7 @@ We can achieve memorization, a core performance optimizer in, and this is someth
 >> Will Sentance: Many JavaScript design patterns like in the module pattern that use a node uses closure, and then, I just basically listed them all off here. Iterators, partial application, currying, maintaining state in an asynchronous world, all of the rest on understanding closure under the hood, we're not going to implementing these things,.
 
 [00:01:36]
-You can go to all the hard parts, folks, about implementing all those things, actually that, you know,,we will be implementing a synchronous one. But they all depend on closure, so it all starts with us reminding ourselves of these principles we saw earlier on. I don't think we're going to go through and dive on how to get, can we take that?
+You can go to all the Hard Parts talks about implementing all those things, actually that, you know,,we will be implementing a synchronous one. But they all depend on closure, so it all starts with us reminding ourselves of these principles we saw earlier on. I don't think we're going to go through and dive on how to get, can we take that?
 
 [00:01:52]
 No, we can't take that again, but, we do know that every time a function gets executed, run, invoke as an invocation, it creates a brand new local memory. Remember, a brand new execution context as a little temporary store memory, when we finish running that function, that's all deleted.
