@@ -66,7 +66,7 @@ I made a horrible mistake here. So if you see instructions anywhere inside the c
 >> Will Sentance: Empty array. Empty array, well yeah, exactly. Okay, now we're gonna start working through this function and I know we're taking this, maybe for some people and a patient pace, but we wanna really make sure everything covered here, at a measured pace in the middle to a more and more hard stuff as we go.
 
 [00:05:09]
-All right, there it is output empty array, array 1,2,3. Let's get into that four loop. All right, we entered the body of the four loop, the first time we entered it, Dan, I's value is what? Yeah, 0, array position 0 is
+All right, there it is output empty array, array 1,2,3. Let's get into that for loop. All right, we entered the body of the for loop, the first time we entered it, Dan, I's value is what? Yeah, 0, array position 0 is
 >> Dan: 1.
 >> Will Sentance: 1, we take the 1, and we're going to, what it's gonna say, is it instructions?
 
@@ -99,7 +99,7 @@ We then do input by 2, 1 by 2, we get 2, we return it out and look at that folks
 >> Will Sentance: We pop it off the call Stack, it goes away, also lead you besides the returned out value.
 
 [00:07:24]
-Perfect we get it off the call Stack, more energetic erasing, there is this is not as kinda roughing not bad at all. Now we hit the array, into the four loop we go again and this time, i's value, Brayden, is what?
+Perfect we get it off the call Stack, more energetic erasing, there is this is not as kinda roughing not bad at all. Now we hit the array, into the for loop we go again and this time, i's value, Brayden, is what?
 >> Braydon: 1.
 >> Will Sentance: It's 1, array at position 1 is number 2.
 
@@ -122,7 +122,7 @@ Okay, we do it-
 [00:08:32]
 
 >> Speaker 2: Input.
->> Will Sentance: Input, that was the parameter name, exactly, spot on, I got 6, there is 2, 4, 6, excellent. And now Ethan, we finished our four loop, we're gonna do what finally?
+>> Will Sentance: Input, that was the parameter name, exactly, spot on, I got 6, there is 2, 4, 6, excellent. And now Ethan, we finished our for loop, we're gonna do what finally?
 >> Ethan: We're gonna return the value of output.
 >> Will Sentance: Beautiful, return the value of output, the array, 2, 4, 6, into results, there it is, the array 2, 4, 6.
 

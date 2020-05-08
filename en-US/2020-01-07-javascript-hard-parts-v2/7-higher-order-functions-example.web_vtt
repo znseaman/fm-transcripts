@@ -419,11 +419,11 @@ array 1,2,3.
 
 91
 00:05:12.400 --> 00:05:13.949
-Let's get into that four loop.
+Let's get into that for loop.
 
 92
 00:05:15.530 --> 00:05:18.710
-All right, we entered the body of the four
+All right, we entered the body of the for
 loop, the first time we entered it,
 
 93
@@ -615,7 +615,7 @@ roughing not bad at all.
 
 133
 00:07:41.460 --> 00:07:45.070
-Now we hit the array, into the four
+Now we hit the array, into the for
 loop we go again and this time,
 
 134
@@ -717,7 +717,7 @@ on, I got 6, there is 2, 4, 6, excellent.
 
 155
 00:08:38.530 --> 00:08:44.660
-And now Ethan, we finished our four loop,
+And now Ethan, we finished our for loop,
 we're gonna do what finally?
 
 156
