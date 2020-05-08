@@ -58,7 +58,7 @@ I don't wanna write it because we got to do a full pause and wipe down but I'm g
 >> Will Sentance: MultiplyBy2 with the input of three, exactly.
 
 [00:04:23]
-I made a horrible mistake here. So if you see instructions anywhere inside the code of copyArrayManipulate, know that it's really running everybody together what? MultiplyBy2. Excellent us execution got it for no, MultiplyBy2, excellent. Okay, now let's get into the body to over to Mark, Mark what's the first thing in the body the function say to do?
+I made a horrible mistake here. So if you see instructions anywhere inside the code of copyArrayManipulate, know that it's really running everybody together what? MultiplyBy2. Excellent you were about to say execution context but no, MultiplyBy2, excellent. Okay, now let's get into the body to over to Mark, Mark what's the first thing in the body the function say to do?
 
 [00:04:46]
 
