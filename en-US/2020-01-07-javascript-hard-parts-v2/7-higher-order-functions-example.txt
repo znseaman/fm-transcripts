@@ -48,7 +48,7 @@ Adam at the back, what is the first thing we're gonna stick in that copyArrayAnd
 [00:03:52]
 
 >> Kayla: Instructions
->> Will Sentance: Instructions, she spawn. So I would have to write in order to execute multiplyBy2 inside here, I will write what, Kayla?
+>> Will Sentance: Instructions, she spot on. So I would have to write in order to execute multiplyBy2 inside here, I will write what, Kayla?
 >> Kayla: Instructions and then primes.
 >> Will Sentance: Fantastic, If I wanna provide presumably an argument because it's expecting an input, I put like you know, be like instruction.
 
