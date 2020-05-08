@@ -59,7 +59,7 @@ It's just the-
 >> Will Sentance: Yeah, exactly. Very nice. Which. Which is the array 0.5, 1, 1.5. Excellent from Jeff. Thank you. And that's stored in global under what constant Jeff.
 >> Speaker 2: Result?
 >> Will Sentance: Result. Excellent. There we go. We love this function.
->> Speaker 2: Pop off the coaster.
+>> Speaker 2: Pop off the call stack.
 
 [00:04:13]
 
