@@ -25,7 +25,7 @@ That generatedFunc is really gonna be multiplyBy2. Sounds maybe not profound, bu
 [00:02:16]
 
 >> Will Sentance: That's right we're actually storing all the code of the function never lose sight of this box represents all the code of the function being defined, being saved into global memory. Perfect, thank you to Todd. And now we move on to what line next? Ethan?
->> Ethan: We'll be defining the concepts generatedFunc.
+>> Ethan: We'll be defining the const generatedFunc.
 
 [00:02:41]
 
