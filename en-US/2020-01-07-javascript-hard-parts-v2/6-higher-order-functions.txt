@@ -50,7 +50,7 @@ Okay? There is all right, we hit the body of the for loop. i's value is what ini
 
 [00:03:26]
 Okay, we go it there it is 1.5 as well. Good, there it is. Final line of the function, Jeff, says to do what?
->> Speaker 2: Returned output.
+>> Speaker 2: Return output.
 >> Will Sentance: Yeah, I'd like it to be more precise in that Jeff. Is it output which to me output represents this whole combination of label or identifier and value but it's not the whole is it?
 
 [00:03:48]
