@@ -38,7 +38,7 @@ I couldn't, my partner was waiting for me they were ready to run, I also couldn'
 We are fools when we pair programming to verbalize and explain our code and therefore not just make it work alone some element of that but understanding as we go. And that's the other big piece here, it's gonna refine our technical communication, the way we pair program is this.
 
 [00:03:49]
-If I'm navigator, I'm looking at the prompt and I'm seeing it says, I make it cool to Twitte API. I'm now going to lead my partner their hands are on the keyboard typing and actually executing the code itself and then verbally explain a strategy that they must turn into actual code.
+If I'm navigator, I'm looking at the prompt and I'm seeing it says, I make it cool to Twitter API. I'm now going to lead my partner their hands are on the keyboard typing and actually executing the code itself and then verbally explain a strategy that they must turn into actual code.
 
 [00:04:07]
 They can't get off, they can't do it their way they have to take my explanation and implement it and if they're not understanding my explanation, that's all in me. I can't say, hey, actually, let me just show you how to do it, I've got to be able to verbalize with such clarity and precision intuitive style, that my partner can actually turn it into real code.
