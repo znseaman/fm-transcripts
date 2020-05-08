@@ -10,7 +10,7 @@ We're parsing, yes, a reference to where it was initially saved in global memory
 
 [00:00:56]
 They call it a side effect. But instead, here, we create a brand new array, and take each individual element, stick it in that new array. And our input array stays unmutated, stays unchanged. Nice, by Dan, yeah, go ahead, Dan.
->> Dan: But the function, can you call it a function reference, or is it a function definite-
+>> Dan: But the function, can you call it a function reference, or is it a function definition?
 
 [00:01:13]
 
