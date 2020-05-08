@@ -59,7 +59,7 @@ Yeah, we add the call to increment counter onto the call stack there it is, beca
 
 [00:04:20]
 So you just give me the exact words.
->> Speaker 2: An incriment counter.
+>> Speaker 2: An increment counter.
 >> Will Sentance: Yeah, you're all very fancy. Just give me the literally, just to be clear because it's a big ambiguous with my name of my functions. So literally what is the exact words that get run? What's the exact-
 
 [00:04:32]
