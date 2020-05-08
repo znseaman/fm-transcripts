@@ -568,16 +568,16 @@ Hmm, it seems right to me.
 124
 00:05:38.970 --> 00:05:42.980
 I guess I'm running it inside of
-outside doesn't seem wrong and yet
+outside doesn't seem wrong and yet,
 
 125
 00:05:42.980 --> 00:05:48.320
-food right now,
-that is genuinely a mystery as to whether.
+folk, right now,
+there is genuinely a mystery as to whether
 
 126
 00:05:49.930 --> 00:05:55.240
-It's a fact that I'm running increment
+it's a fact that I'm running increment
 counter inside the running of outer that
 
 127
@@ -588,11 +588,11 @@ in local memory of increment counter to go
 128
 00:05:59.380 --> 00:06:06.610
 out to outers local memory, or
-is it the fact that I saved.
+is it the fact that I saved
 
 129
 00:06:06.610 --> 00:06:10.560
-Increment counter inside
+increment counter inside
 the running of outer
 
 130
