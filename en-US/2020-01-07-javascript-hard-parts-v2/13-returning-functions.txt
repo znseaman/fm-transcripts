@@ -50,7 +50,7 @@ But before we get to that, Braden, what is it that we're going to declare, save,
 >> Will Sentance: Yeah, and that literally means, people, this is local temporary memory we define. That's not spelled, right?
 
 [00:04:31]
-Define multiplyBy2 as, I'm gonna do a different colors so we can really track its journey to find multiplyBy2. Is that readable? That's okay, define multiplyBy2 as a function is whole code. Now, Kayla are we using multiply by two right now? Are we gonna call it, invoke it inside of createFunctions execution context?
+Define multiplyBy2 as, I'm gonna do a different colors so we can really track its journey to find multiplyBy2. Is that readable? That's okay, define multiplyBy2 as a function its whole code. Now, Kayla are we using multiply by two right now? Are we gonna call it, invoke it inside of createFunctions execution context?
 
 [00:04:56]
 
