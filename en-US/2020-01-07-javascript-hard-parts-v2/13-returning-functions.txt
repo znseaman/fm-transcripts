@@ -57,7 +57,7 @@ Define multiplyBy2 as, I'm gonna do a different colors so we can really track it
 >> Kayla: No.
 >> Will Sentance: We absolutely not, what are we gonna do instead here, Kayla?
 >> Kayla: We're gonna return it to the constant generatedFunc.
->> Will Sentance: Fantastic, we're gonna return it out into the constant generatedFunc. Here's what JavaScript does, it seems returned, multiplyBy2, it goes, I've no I don't return means, the next thing is gonna be the output of this function execution context.
+>> Will Sentance: Fantastic, we're gonna return it out into the constant generatedFunc. Here's what JavaScript does, it sees returned, multiplyBy2, it goes, I've no I don't return means, the next thing is gonna be the output of this function execution context.
 
 [00:05:17]
 In fact, this is gonna replace the call to the function and we saw it on the left hand side here. I know that but I have no idea what this word means. So it goes off as it always does to look into memory. Don't worry. There's a function, it uses that label to take the value, which believe it or not function definition is a value.
