@@ -37,7 +37,7 @@ Also is there, there it is. Excellent. Let's go into the execution context. And 
 >> Will Sentance: Beautiful. Excellent let's get moving on our iteration our looping through our doing a line of code the body of the for loop multiple times.
 
 [00:02:43]
-Okay? There is all right, we hit the body of the for loop. Eyes value is what initially Taylor?
+Okay? There is all right, we hit the body of the for loop. i's value is what initially Taylor?
 >> Speaker 3: Zero.
 >> Will Sentance: Zero we take array position or asub or array index zero and get the value?
 >> Speaker 3: One.
