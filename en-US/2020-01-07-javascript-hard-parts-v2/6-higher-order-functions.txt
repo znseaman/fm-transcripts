@@ -63,7 +63,7 @@ It's just the-
 
 [00:04:13]
 
->> Will Sentance: Again Peter, you've got to pop it off the call stack, he's spot on. Do we like this function, nah, his function is fine. Do we like that we wrote this function again from scratch? Everybody, who knows [INAUDIBLE] look at that, okay. Do we like this function? Yes, his usual function we use this with the task a lot, but Did I really have to rebuild it from scratch?
+>> Will Sentance: Again Peter, you've got to pop it off the call stack, he's spot on. Do we like this function, nah, this function is fine. Do we like that we wrote this function again from scratch? Everybody, who knows [INAUDIBLE] look at that, okay. Do we like this function? Yes, his usual function we use this with the task a lot, but Did I really have to rebuild it from scratch?
 
 [00:04:34]
 I guess I did though. Because any change- I can't edit functions, right? Not once I've saved them. Unless- well, before we see, let's for now see another function. Suppose you wanted to take an array this time, create a brand new array, fill it with each element with three added to it.
