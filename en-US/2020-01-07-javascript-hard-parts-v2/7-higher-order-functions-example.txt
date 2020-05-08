@@ -49,11 +49,11 @@ Adam at the back, what is the first thing we're gonna stick in that copyArrayAnd
 
 >> Kayla: Instructions
 >> Will Sentance: Instructions, she spot on. So I would have to write in order to execute multiplyBy2 inside here, I will write what, Kayla?
->> Kayla: Instructions and then primes.
+>> Kayla: Instructions and then parens.
 >> Will Sentance: Fantastic, If I wanna provide presumably an argument because it's expecting an input, I put like you know, be like instruction.
 
 [00:04:07]
-I don't wanna write it because we got to do a full pause and wipe down but I'm gonna do it instructions, primes is gonna run multiplyBy2, input 3 is gonna run it like that, that's really running, Kayla again.
+I don't wanna write it because we got to do a full pause and wipe down but I'm gonna do it instructions, parens is gonna run multiplyBy2, input 3 is gonna run it like that, that's really running, Kayla again.
 >> Kayla: MultiplyBy-
 >> Will Sentance: MultiplyBy2 with the input of three, exactly.
 
