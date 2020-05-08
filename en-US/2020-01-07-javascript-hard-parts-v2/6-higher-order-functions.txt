@@ -56,7 +56,7 @@ Okay, we go it there it is 1.5 as well. Good, there it is. Final line of the fun
 [00:03:48]
 It's just the-
 >> Speaker 2: Return the value assigned.
->> Will Sentance: Yeah, exactly. Very nice. Which. Which is the array 0.51, 1.5. Excellent from Jeff. Thank you. And that's stored in global under what constant Jeff.
+>> Will Sentance: Yeah, exactly. Very nice. Which. Which is the array 0.5, 1, 1.5. Excellent from Jeff. Thank you. And that's stored in global under what constant Jeff.
 >> Speaker 2: Result?
 >> Will Sentance: Result. Excellent. There we go. We love this function.
 >> Speaker 2: Pop off the coaster.
