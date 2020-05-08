@@ -46,7 +46,7 @@ Okay? There is all right, we hit the body of the for loop. i's value is what ini
 
 [00:03:05]
 
->> Will Sentance: 0.5, or as we say in my country, everybody, maybe you've watched this all before, we say nor point five, which is a real thing. Even though it sounds like something from dynamic. Then we hit array sub, or array index, or array position one, which is the number two we divide by two we get one.
+>> Will Sentance: 0.5, or as we say in my country, everybody, maybe you've watched this all before, we say nought point five, which is a real thing. Even though it sounds like something from dynamic. Then we hit array sub, or array index, or array position one, which is the number two we divide by two we get one.
 
 [00:03:26]
 Okay, we go it there it is 1.5 as well. Good, there it is. Final line of the function, Jeff, says to do what?
