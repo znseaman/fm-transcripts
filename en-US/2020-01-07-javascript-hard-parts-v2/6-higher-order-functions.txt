@@ -32,7 +32,7 @@ Also is there, there it is. Excellent. Let's go into the execution context. And 
 [00:02:23]
 
 >> Speaker 2: Argument.
->> Will Sentance: Argument very nice, excellent. And Kayla thanks very much on to the next line, Kayla, what's the fist thing we do in that local memory?
+>> Will Sentance: Argument very nice, excellent. And Kayla thanks very much on to the next line, Kayla, what's the first thing we do in that local memory?
 >> Speaker 3: We define a constant output to empty array.
 >> Will Sentance: Beautiful. Excellent let's get moving on our iteration our looping through our doing a line of code the body of the for loop multiple times.
 
