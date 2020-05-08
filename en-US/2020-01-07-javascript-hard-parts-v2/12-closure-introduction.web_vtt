@@ -137,7 +137,7 @@ I just basically listed them all off here.
 
 29
 00:01:27.880 --> 00:01:31.850
-Iterators, partial application, carrying,
+Iterators, partial application, currying,
 maintaining state in an asynchronous
 
 30
