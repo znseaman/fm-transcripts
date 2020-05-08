@@ -211,7 +211,7 @@ we're gonna create a brand new-
 46
 00:02:16.020 --> 00:02:21.570
 Into the execution context we go,
-cool stack really important here cuz we're
+call stack really important here cuz we're
 
 47
 00:02:21.570 --> 00:02:25.290
