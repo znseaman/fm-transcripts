@@ -79,7 +79,7 @@ So you just give me the exact words.
 [00:05:11]
 I find counter, and increment it to what Matt?
 >> Speaker 2: One.
->> Will Sentance: To one, what I;m up, exactly. In other words, everything would suggest right now that I first looked top of my call stack, didn't find what I was looking for. So I guess, because I'm running increment counter, inside the running of outer.
+>> Will Sentance: To one, what I;m up, exactly. In other words, everything would suggest right now that I first looked at the top of my call stack, didn't find what I was looking for. So I guess, because I'm running increment counter, inside the running of outer.
 
 [00:05:29]
 What do I do, I went down one layer. Down my cool stack and losing the outer right that sounds right isn't it? Hmm, it seems right to me. I guess I'm running it inside of outside doesn't seem wrong and yet food right now, that is genuinely a mystery as to whether.
