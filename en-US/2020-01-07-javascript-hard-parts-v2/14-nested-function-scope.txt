@@ -29,7 +29,7 @@ Just to keep precise I wanna give you what specifically JavaScript scope's most 
 
 [00:02:29]
 Then we have now outer added on top. Nicely. Nice and ready, right? Is this is surprised myself. Into we go and in our local memory Peter, what are we storing first?
->> Speaker 2: We're storing the variable counter. We have values 0.
+>> Speaker 2: We're storing the variable counter with the value 0.
 >> Will Sentance: Yeah, I know people at the variable so we can alter the value stored in it.
 
 [00:02:54]
