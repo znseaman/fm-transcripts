@@ -2,7 +2,7 @@
 >> Will Sentance: But it all starts with us returning a function from the invocation, from the running of another function. This is a big part, it's a part that's gonna feel, okay, yeah, I kinda get this. And yet, folk, if we get this bit down, everything in closure follows like that, like it's easy.
 
 [00:00:22]
-But we have to understand what sounds pretty from returning a function another function. And yeah, I promise you I've given this talk. I'm not assessing more, I give this talk at insert companies who knows what this is my be and this season engineers. They really don't have this little notion down.
+But we have to understand what sounds pretty from returning a function another function. And yeah, I promise you I've given this talk. I'm not assessing more, I give this talk at insert companies who knows what those companies might be and their seasoned engineers. They really don't have this little notion down.
 
 [00:00:38]
 And until we do A, anything really understand JavaScript. And B, we definitely don't have the ability to get closure, right? Of course, cuz we don't have closure ready. So we're gonna go and understand returning a function of another function, here it is. Functions can be returned from other functions in JavaScript, let's walk through it.
