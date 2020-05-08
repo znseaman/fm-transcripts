@@ -84,7 +84,7 @@ Well, except the function got returned that but we do lose that label everything
 [00:07:08]
 
 >> Ryan: Define a constant result.
->> Will Sentance: Define a constant result, very nice. Okay, define a constant results.
+>> Will Sentance: Define a constant result, very nice. Okay, define a constant result.
 >> Will Sentance: And so that equal to what? Ryan go ahead.
 >> Ryan: GeneratedFunc.
 >> Will Sentance: Not quite, I wouldn't even say that words where the precision is so important here. Kayla do you wanna take a shot?
