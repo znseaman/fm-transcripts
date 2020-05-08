@@ -73,7 +73,7 @@ All right, there it is output empty array, array 1,2,3. Let's get into that for 
 [00:05:31]
 Dan, is gonna be what?
 >> Dan: MultipliedBy2.
->> Will Sentance: MultiplyBy2, so we're gonna have multiplyBy2 input, array position 0 primes around number multipliedBy2, which was previously. Kayla remind us again, previously?
+>> Will Sentance: MultiplyBy2, so we're gonna have multiplyBy2 input, array position 0 parens around number multipliedBy2, which was previously. Kayla remind us again, previously?
 >> Kayla: Instructions.
 >> Will Sentance: Instruction, right? Input of the array position 0 which is 1, into it we've got, that looks to me much like we're gonna create a brand new what, everybody.
 
