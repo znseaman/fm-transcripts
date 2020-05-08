@@ -42,7 +42,7 @@ Now we hit what night line next over to Braden, what do we do next?
 >> Speaker 2: Inside the outer.
 >> Will Sentance: Inside outer's execution context, we're saving it inside of outer's execution context. And are we using it? Yeah, we are. Braden, what are we gonna do next?
 >> Speaker 2: You're going to increment the counter variable.
->> Will Sentance: Yeah we're gonna execute what function? What function next Sweden?
+>> Will Sentance: Yeah we're gonna execute what function? What function are we executing?
 
 [00:03:30]
 Yes, so Braden do you see looked like Braden might jump straight into the function we save the code of the function. Counter plus plus was stored under the label increment counter. And we moved on to do what, Braden?
