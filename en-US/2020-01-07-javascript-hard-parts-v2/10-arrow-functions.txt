@@ -32,7 +32,7 @@ The Return key word in front of input by two. We'll see that one in a second. Lo
 But for our purposes right now, nothing has changed in that final version. The point I wanna execute that final version with the parameter input. And then return input by 2 as its body, just to make sure we know that nothing's changed. So let's actually execute that final one there.
 
 [00:03:24]
-Let's do it down here. Let's declare Toward, let's clear the left hand side of that final line. There we go. And I multiply by two functions. We're using the very last version here. We're using that very last version, not even any params no curly braces, super legible. And I tell you in a moment why question it's honestly it's readability in terms of its meaning to the reader.
+Let's do it down here. Let's declare Toward, let's clear the left hand side of that final line. There we go. And I multiply by two functions. We're using the very last version here. We're using that very last version, not even any parens no curly braces, super legible. And I tell you in a moment why question it's honestly it's readability in terms of its meaning to the reader.
 
 [00:03:49]
 Because there are many folk people will be watching this going that's the same thing as at the top. I mean, it's an under the hood changes for how we use it but not at this point. And yet it's essentially the same. So yeah, Todd. Let's now use the left hand side there.
