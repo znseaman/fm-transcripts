@@ -58,7 +58,7 @@ So that's super awesome. And there's not too much more to it that we have to exp
 So that's a special bit of markup. So we'd say something like, nuxt-link to and then the directory and cart, you can see that I've said nuxt-link exact to, that's because nuxt will just grab anything in that directory and point to it. We have to say that it's exactly only going to be that index page.
 
 [00:06:32]
-Because /cart would [LAUGH] fit into that category too, so we wanna make sure that we're not saying just anything in that directory is fine We wanna say exact into that one, and then we can setup links. We can even do the links in the pages, like you saw that in the card itself.
+Because /cart would [LAUGH] fit into that category too, so we wanna make sure that we're not saying just anything in that directory is fine We wanna say exact into that one, and then we can setup links. We can even do the links in the pages, like you saw that in the cart itself.
 
 [00:06:51]
 We had a nuxt- link exact to. So if we go back to this, that just goes back to the home page. And so, you can use it inside the pages as well. It doesn't only have to be in those headers or anything.
