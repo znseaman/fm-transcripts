@@ -316,7 +316,7 @@ whatever it returns out, uninitialized for
 69
 00:03:22.419 --> 00:03:28.651
 now, we are going to go off and
-pull createFunction,
+call createFunction,
 
 70
 00:03:28.651 --> 00:03:33.376

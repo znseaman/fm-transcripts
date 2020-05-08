@@ -37,7 +37,7 @@ That generatedFunc is really gonna be multiplyBy2. Sounds maybe not profound, bu
 
 >> Will Sentance: We don't know yet, it's uninitialized, while we've gotta go and, you can't get away with that, we've gotta go and do what, Ethan?
 >> Ethan: Call createFunction.
->> Will Sentance: Call createFunction and whatever it returns out, uninitialized for now, we are going to go off and pull createFunction, no arguments, no inputs, no problem.
+>> Will Sentance: Call createFunction and whatever it returns out, uninitialized for now, we are going to go off and call createFunction, no arguments, no inputs, no problem.
 
 [00:03:33]
 All he was a normal make a function run. Parentheses will make a function run. It's a big distinction. And we're going to enter that execution context. We're gonna create everybody because after lunch shows what? We're gonna create a brand new?
