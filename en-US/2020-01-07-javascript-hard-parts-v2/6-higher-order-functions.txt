@@ -108,11 +108,11 @@ Wherever you saw array inside of copy array and divide by two, it literally beca
 If run takes the number three, will it turn out three by two? We pass in multiply by two, we're gonna walk through this line by line, don't worry people. But it's literally gonna replace the word instructions there inside of copy array manipulate Save declare define the code, it's going to replace it when we run that code is going to fill in instructions with, multiply by two.
 
 [00:08:26]
-And then look, multiply by two parens. And then a reposition zeros can be the number one, multiply by two persons one. That's to say run, multiply by two With the input of 1 and return out 1 by 2 return out 2 and our instructions array I which will become multiply by 2 array position 0.
+And then look, multiply by two parens. And then array position zero is gonna be the number one, multiply by two parens one. That's to say run, multiply by two With the input of 1 and return out 1 by 2 return out 2 and our instructions array I which will become multiply by 2 array position 0.
 
 [00:08:48]
-That is to say the number 1 multiple by 2 parentheses 1 will return out 2 and that 2 will be pushed. Into output. We're gonna achieve exactly the same thing we did here where array position zero with a number one, multiply by two, but now we do a reposition zero is a number one, and then we stick it into multiply by two and do one by two inside their return out.
+That is to say the number 1 multiple by 2 parens 1 will return out 2 and that 2 will be pushed. Into output. We're gonna achieve exactly the same thing we did here where array position zero with a number one, multiply by two, but now we do array position zero is the number one, and then we stick it into multiply by two and do one by two inside there return out.
 
 [00:09:17]
-The two inputs to output.
+The two and push to output.
 

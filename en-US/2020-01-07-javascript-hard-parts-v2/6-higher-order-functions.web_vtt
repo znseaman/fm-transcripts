@@ -801,7 +801,7 @@ And then look, multiply by two parens.
 176
 00:08:29.380 --> 00:08:34.750
 And then a reposition zeros can be the
-number one, multiply by two persons one.
+number one, multiply by two parens one.
 
 177
 00:08:34.750 --> 00:08:39.350
@@ -820,7 +820,7 @@ become multiply by 2 array position 0.
 180
 00:08:48.220 --> 00:08:53.490
 That is to say the number 1
-multiple by 2 parentheses 1 will
+multiple by 2 parens 1 will
 
 181
 00:08:53.490 --> 00:08:57.890
@@ -841,15 +841,15 @@ a number one, multiply by two, but
 
 185
 00:09:08.590 --> 00:09:11.830
-now we do a reposition
-zero is a number one, and
+now we do array position
+zero is the number one, and
 
 186
 00:09:11.830 --> 00:09:17.850
 then we stick it into multiply by two and
-do one by two inside their return out.
+do one by two inside there return out.
 
 187
 00:09:17.850 --> 00:09:19.083
-The two inputs to output.
+The two and push to output.
 
