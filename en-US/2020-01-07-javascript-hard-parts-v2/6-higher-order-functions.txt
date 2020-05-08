@@ -99,10 +99,10 @@ Nah. You can imagine a language that would. It's not saying you can't. It's not 
 [00:07:23]
 Braden, how can we wrap it up, wrap it up with?
 >> Speaker 2: In function.
->> Will Sentance: In a function he's spot on and that's exactly what we're gonna do, we could generalize our function, let's call it copyright and do something. Copy array and manipulate and look at this. I've left a little blank instructions and just as array.
+>> Will Sentance: In a function he's spot on and that's exactly what we're gonna do, we could generalize our function, let's call it copy array and do something. Copy array and manipulate and look at this. I've left a little blank instructions and just as array.
 
 [00:07:42]
-Wherever you saw array inside of copyright and divide by two, it literally became 123. We're gonna see that instructions is literally gonna be filled in with Multiply by two. Have a look at that. We've got multiply by two function, now I've kept it on one line but it's no different to a normal function.
+Wherever you saw array inside of copy array and divide by two, it literally became 123. We're gonna see that instructions is literally gonna be filled in with Multiply by two. Have a look at that. We've got multiply by two function, now I've kept it on one line but it's no different to a normal function.
 
 [00:08:00]
 If run takes the number three, will it turn out three by two? We pass in multiply by two, we're gonna walk through this line by line, don't worry people. But it's literally gonna replace the word instructions there inside of copy array manipulate Save declare define the code, it's going to replace it when we run that code is going to fill in instructions with, multiply by two.
