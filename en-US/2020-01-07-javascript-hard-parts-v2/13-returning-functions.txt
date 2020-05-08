@@ -14,7 +14,7 @@ We've got a function saved here from createFunction, we're gonna give a label ge
 Call multiplied by two. We're not gonna use it, we're instead gonna return it straight out into generatedFunc. Such that generatedFunc is gonna be a new label for the function that was born as multiplyBy2. In global, the local label multiplied by two inside of create function's execution context, that's gonna be deleted.
 
 [00:01:35]
-But their functions are gonna be returned out in the generatedFunc and we'll now gonna have a new label for what was born as multiplyBy2 generatedFunc. It's kinda like the flip of the other one where we were taking something into another function, give it a new label. Now, we're taking it out, giving it a new label and running it by that new label with params.
+But their functions are gonna be returned out in the generatedFunc and we'll now gonna have a new label for what was born as multiplyBy2 generatedFunc. It's kinda like the flip of the other one where we were taking something into another function, give it a new label. Now, we're taking it out, giving it a new label and running it by that new label with parens.
 
 [00:01:51]
 That generatedFunc is really gonna be multiplyBy2. Sounds maybe not profound, but folk, we get this down, closure follows so naturally. All right, here we go. Line 1, Todd, what are we doing here?
