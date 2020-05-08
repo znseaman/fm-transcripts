@@ -158,7 +158,7 @@ What's the parameter? Dan, that's waiting for that 3?
 But how damn confusing is that that Dan had to go back up to create function and see more of it and he will saved that? But that's not where it's actually saved. That line there when we ran createFunction ran that code, which was by the way create functions global saved in global memory.
 
 [00:12:22]
-Even when it ran create functions didn't go backups create function. The thread never goes back up, it didn't have to because when it say you create functions that start, it saved all the code in memory. That's where it went and grabbed the code from to start running it.
+Even when it ran create functions didn't go back up to create function. The thread never goes back up, it didn't have to because when it say you create functions that start, it saved all the code in memory. That's where it went and grabbed the code from to start running it.
 
 [00:12:34]
 And then it created inside of createFunction multiplyBy2. And it literally saved the code of multiplyBy2 including the parameter name num, creating parameter name num into that execution context, local memory. And then he grabbed it and returned it out into global and stored it under generatedFunc. And it's into memory where we go and grab the code of that function that we had when we run generatedFunc.
