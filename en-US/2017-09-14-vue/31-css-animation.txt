@@ -5,7 +5,7 @@
 So, what we'll end up doing when we use CSS animation within the transition component is we're gonna give it a class. We're going to say, okay, when you're interactive during that intermediary state, you're gonna need to plug into this CSS animation class. And then it's going to go use that class.
 
 [00:00:40]
-This is actually pretty great because that means that we can plug into CS Animation libraries if we want. We don't have to write all these animations from scratch, we can reuse animations if we want to. So if I say the enter-active-class="toasty", I could say toasty 1s ease both.
+This is actually pretty great because that means that we can plug into CSS Animation libraries if we want. We don't have to write all these animations from scratch, we can reuse animations if we want to. So if I say the enter-active-class="toasty", I could say toasty 1s ease both.
 
 [00:00:59]
 And then that is available to us. We could still be in that transition component, we gave it a name and we were using the transition component for that transition in that enter-active-class. We could do it that way as well, but I think that this makes a little bit more sense because then you can reuse that CSS animation in multiple places.
