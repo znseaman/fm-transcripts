@@ -393,12 +393,12 @@ We add increment counter.
 
 86
 00:04:03.690 --> 00:04:06.320
-Yeah we got the cool to increment counter.
+Yeah, we add the call to increment counter
 
 87
 00:04:06.320 --> 00:04:09.660
-Onto the call stack there it is,
-because recording it inside of outer.
+onto the call stack there it is,
+because we're calling it inside of outer.
 
 88
 00:04:09.660 --> 00:04:13.230
