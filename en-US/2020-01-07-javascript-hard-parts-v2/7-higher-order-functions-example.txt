@@ -127,7 +127,7 @@ Okay, we do it-
 >> Will Sentance: Beautiful, return the value of output, the array, 2, 4, 6, into results, there it is, the array 2, 4, 6.
 
 [00:08:59]
-Folk wonderful, we've built out a function that, look at this we didn't have to in any way predetermine what we're gonna do to each element of the array. We left it blank with institutions, and just like we had our place order our parameter in our best position. Does it have a placeholder parameter for passing in that array 1,2,3, which could have been 1, 2, 3, 4, 5, 6, could have been 7, 8, 9, could have been whatever.
+Folk wonderful, we've built out a function that, look at this we didn't have to in any way predetermine what we're gonna do to each element of the array. We left it blank with instructions, and just like we had our place order our parameter in our best position. Does it have a placeholder parameter for passing in that array 1,2,3, which could have been 1, 2, 3, 4, 5, 6, could have been 7, 8, 9, could have been whatever.
 
 [00:09:28]
 So 2, we left a placeholder for what we're gonna do to each element of that array, a little blank, and we filled it in with a function that took in one input, we were ready for it, we used it, we took that input, we returned out the result and we pushed it into output.
