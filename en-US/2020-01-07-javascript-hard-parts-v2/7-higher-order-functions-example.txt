@@ -19,7 +19,7 @@
 [00:01:32]
 
 >> Ethan: It is the function multiplyBy2.
->> Will Sentance: Yeah, it's the entire function definitionnpeople, the whole thing is being grabbed and inserted in. So we're gonna see that wherever you see the word instruction it's gonna be fully replaced by multiplyBy2. Okay, so everybody, hold on, hold on. I know we're doing enough of my favorite chant, here's a call Stack, we're gonna add copyArrayAndManipulate, there it is to it and we're gonna create.
+>> Will Sentance: Yeah, it's the entire function definition people, the whole thing is being grabbed and inserted in. So we're gonna see that wherever you see the word instruction it's gonna be fully replaced by multiplyBy2. Okay, so everybody, hold on, hold on. I know we're doing enough of my favorite chant, here's a call Stack, we're gonna add copyArrayAndManipulate, there it is to it and we're gonna create.
 
 [00:02:15]
 I'm gonna be very happy, we're gonna create a brand new.
