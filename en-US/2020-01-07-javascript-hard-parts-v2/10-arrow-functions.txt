@@ -115,7 +115,7 @@ That function, whole definition that's being passed in is much easier to track t
 In is the input to other functions there is really readable and fully endorse and I would absolutely you know, you will see there's a standard. But it's not automatically the case that we should always be using arrow functions. And we'll see you later on situations in which you will completely under undo what we're trying to achieve.
 
 [00:10:16]
-There is an under the hood change to how arrow functions treat. This key word assignment that we're going to see in our courses and prototypes session where it can be really useful. By the way, I tell you this little preview now if he was a function inside a method, that lexically scoped arrow function was he was a Toronto where I can be really useful.
+There is an under the hood change to how arrow functions treat. This key word assignment that we're going to see in our courses and prototypes session where it can be really useful. By the way, I tell you this little preview now if he was a function inside a method, that lexically scoped arrow function, I'm gonna say all this later on, don't worry, can be really useful can be really useful.
 
 [00:10:37]
 But if you're using that for regular methods on objects, It ain't gonna work. So we're gonna continue to default to the function declaration style. But, for when we're parsing little baby functions in, I do endorse that that makes it, that says map array 123. So we take each element, and multiply it by 2.
